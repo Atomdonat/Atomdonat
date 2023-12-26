@@ -1,2 +1,2 @@
 Hello I'm Atomdonat.
-Currently I'm a Cyber Security (B.Sc.) student of the Ruhr-Universität-Bochum (Germany).
+Currently I'm a IT-Security (B.Sc.) student of the Ruhr-Universität-Bochum (Germany).
